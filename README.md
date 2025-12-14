@@ -78,9 +78,9 @@
     - *Note:* 에뮬레이터에서 지도 렌더링 문제 발생 시 `config.ini`의 `hw.gpu.mode`를 `angle_indirect`로 설정하세요.
 
 ## 👨‍💻 개발자 (Author)
-- **Name:** [본인 이름]
+- **Name:** 배대석
 - **Role:** Android Developer (Individual Project)
-- **Contact:** [본인 이메일]
+- **Contact:** tkdxm0208@gmail.com
 
 ---
-© 2024 CineMax Project. All Rights Reserved.
+© 2025 CineMax Project. All Rights Reserved.
